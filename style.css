@@ -191,7 +191,7 @@ position: relative;
 left: 33px;
 }
 
-@media (max-width :370px){
+@media  (max-width :500px){
     body
     {
 display: flex;
